@@ -12,7 +12,7 @@
     "api",
     "backend",
     "nodejs",
-    "mysql",
+    "mysql2",
     "sequelize"
   ],
   "author": "Raul R. Bolivar Navas @rasysbox",
