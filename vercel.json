@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/"
+    }
+  ],
+  "functions": {
+    "api/index.js": {
+      "runtime": "nodejs18.x",
+      "memory": 512
+    }
+  }
+}
